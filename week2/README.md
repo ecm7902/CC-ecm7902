@@ -1,61 +1,9 @@
-# template
+# Week 2 - Process Drawing
 
 ---
 
-This is a README file that can be used to describe and document your assignment.
+In my sketches I drew circles, focusing on colors changing and moving around a central point. I liked the idea of the circles being like different lens' of color that when overlapped would create different shades. 
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+The scrolling interaction allows for the movement to be connected to the color changes. When you click, the saturation and brightness levels change. This gives the user an infinite amount of iterations to look through as they can pause scrolling at many different moments and look at the way the lens' interact and click to change the saturation and brightness levels.
 
 ---
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2024f-b.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.

@@ -15,7 +15,6 @@ function setup() {
   colorAngle = 360/8;
   saturation = 85;
   brightness = 90;
-
 }
 
 function draw() {
