@@ -1,7 +1,6 @@
-# Week 3 - Sketch 1
+# Week 4 - Ideation Generation II
 
 ---
 
-This is the initial draft of the form using basic styling.
 
 ---
