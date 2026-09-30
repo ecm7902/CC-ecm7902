@@ -1,0 +1,1817 @@
+<!-- myOutput.svg -->
+<!-- Generated using p5.js v.2.3.1 and p5.plotSvg v.0.3.0: -->
+<!-- A Plotter-Oriented SVG Exporter for p5.js -->
+<!-- Tue Sep 29 2026 17:55:20 GMT-0400 (Eastern Daylight Time) -->
+<!-- DPI: 96 -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="6in" height="4in" viewBox="0 0 576 384">
+  <style>
+      circle, ellipse, line, path, polygon, polyline, rect, quad, text {
+        fill: none;
+        stroke: black;
+        stroke-width: 1;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        vector-effect: non-scaling-stroke;
+      }
+    </style>
+<g>
+  <g transform="translate(0, 0)">
+    <g transform="translate(23.900674, 45.945200)">
+      <g transform="scale(1.482300, 1.482300)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 30)">
+    <g transform="translate(18.572844, 31.689992)">
+      <g transform="scale(0.643144, 0.643144)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 60)">
+    <g transform="translate(-18.244845, -2.856154)">
+      <g transform="scale(0.960725, 0.960725)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 90)">
+    <g transform="translate(-52.366970, 15.616499)">
+      <g transform="scale(0.961488, 0.961488)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 120)">
+    <g transform="translate(27.266557, 39.660523)">
+      <g transform="scale(0.510900, 0.510900)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 150)">
+    <g transform="translate(-45.582005, 32.877841)">
+      <g transform="scale(0.732834, 0.732834)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 180)">
+    <g transform="translate(-41.222770, 41.593951)">
+      <g transform="scale(1.456733, 1.456733)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 210)">
+    <g transform="translate(-28.289674, 34.041687)">
+      <g transform="scale(1.019481, 1.019481)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 240)">
+    <g transform="translate(9.085010, 46.281360)">
+      <g transform="scale(1.764515, 1.764515)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(0, 270)">
+    <g transform="translate(-7.079030, -0.977767)">
+      <g transform="scale(1.257992, 1.257992)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 0)">
+    <g transform="translate(-65.729807, 39.481933)">
+      <g transform="scale(0.895358, 0.895358)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 30)">
+    <g transform="translate(-29.335811, -1.243073)">
+      <g transform="scale(1.302909, 1.302909)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 60)">
+    <g transform="translate(-11.910471, 30.702045)">
+      <g transform="scale(1.798081, 1.798081)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 90)">
+    <g transform="translate(-26.566154, 48.050923)">
+      <g transform="scale(1.489568, 1.489568)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 120)">
+    <g transform="translate(-43.762420, 49.938697)">
+      <g transform="scale(1.634188, 1.634188)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 150)">
+    <g transform="translate(-58.363272, 31.444974)">
+      <g transform="scale(1.397712, 1.397712)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 180)">
+    <g transform="translate(23.908862, 30.872114)">
+      <g transform="scale(1.464714, 1.464714)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 210)">
+    <g transform="translate(-23.134408, 49.911083)">
+      <g transform="scale(1.836954, 1.836954)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 240)">
+    <g transform="translate(-39.612480, 36.254539)">
+      <g transform="scale(1.942712, 1.942712)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(30, 270)">
+    <g transform="translate(18.134626, 23.536131)">
+      <g transform="scale(1.105924, 1.105924)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 0)">
+    <g transform="translate(-33.170780, 18.324282)">
+      <g transform="scale(0.888637, 0.888637)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 30)">
+    <g transform="translate(12.576008, 26.709467)">
+      <g transform="scale(1.017815, 1.017815)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 60)">
+    <g transform="translate(-1.058500, -6.773838)">
+      <g transform="scale(1.572662, 1.572662)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 90)">
+    <g transform="translate(3.870207, 11.885629)">
+      <g transform="scale(0.504908, 0.504908)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 120)">
+    <g transform="translate(15.226460, 29.000787)">
+      <g transform="scale(0.931767, 0.931767)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 150)">
+    <g transform="translate(25.834283, 4.189382)">
+      <g transform="scale(1.532113, 1.532113)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 180)">
+    <g transform="translate(-66.179224, 48.542405)">
+      <g transform="scale(1.904043, 1.904043)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 210)">
+    <g transform="translate(-56.036116, -5.301512)">
+      <g transform="scale(1.033443, 1.033443)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 240)">
+    <g transform="translate(23.715023, 49.028521)">
+      <g transform="scale(0.911759, 0.911759)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(60, 270)">
+    <g transform="translate(14.492307, 6.292571)">
+      <g transform="scale(1.854406, 1.854406)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 0)">
+    <g transform="translate(-21.240092, 19.455634)">
+      <g transform="scale(1.862152, 1.862152)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 30)">
+    <g transform="translate(-51.141770, 35.917293)">
+      <g transform="scale(1.206234, 1.206234)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 60)">
+    <g transform="translate(21.319618, 49.990223)">
+      <g transform="scale(0.704333, 0.704333)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 90)">
+    <g transform="translate(-59.131667, 9.087727)">
+      <g transform="scale(0.633459, 0.633459)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 120)">
+    <g transform="translate(27.869877, 41.977456)">
+      <g transform="scale(1.675912, 1.675912)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 150)">
+    <g transform="translate(14.568729, 49.177109)">
+      <g transform="scale(1.933400, 1.933400)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 180)">
+    <g transform="translate(-35.146175, 49.995455)">
+      <g transform="scale(0.737692, 0.737692)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 210)">
+    <g transform="translate(-35.528605, 49.999267)">
+      <g transform="scale(1.063244, 1.063244)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 240)">
+    <g transform="translate(-14.638962, 18.723612)">
+      <g transform="scale(1.422823, 1.422823)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(90, 270)">
+    <g transform="translate(26.260439, 49.333813)">
+      <g transform="scale(0.796508, 0.796508)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 0)">
+    <g transform="translate(13.487167, 49.179777)">
+      <g transform="scale(1.261836, 1.261836)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 30)">
+    <g transform="translate(-32.663927, 34.632172)">
+      <g transform="scale(0.964398, 0.964398)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 60)">
+    <g transform="translate(-12.361008, 37.201376)">
+      <g transform="scale(1.180851, 1.180851)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 90)">
+    <g transform="translate(24.629480, -6.578574)">
+      <g transform="scale(1.507705, 1.507705)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 120)">
+    <g transform="translate(-29.231709, 41.579628)">
+      <g transform="scale(1.150596, 1.150596)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 150)">
+    <g transform="translate(-58.132487, 19.547484)">
+      <g transform="scale(0.990180, 0.990180)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 180)">
+    <g transform="translate(-2.041760, 42.963591)">
+      <g transform="scale(0.982553, 0.982553)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 210)">
+    <g transform="translate(-16.928515, 44.386498)">
+      <g transform="scale(0.653527, 0.653527)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 240)">
+    <g transform="translate(-70.611576, 41.167042)">
+      <g transform="scale(1.369194, 1.369194)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(120, 270)">
+    <g transform="translate(25.141347, 45.220276)">
+      <g transform="scale(0.746012, 0.746012)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 0)">
+    <g transform="translate(14.145610, 26.137807)">
+      <g transform="scale(0.641777, 0.641777)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 30)">
+    <g transform="translate(-30.725688, 10.934649)">
+      <g transform="scale(1.199935, 1.199935)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 60)">
+    <g transform="translate(-44.168417, -1.822604)">
+      <g transform="scale(0.615140, 0.615140)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 90)">
+    <g transform="translate(-41.546237, 45.445881)">
+      <g transform="scale(0.986652, 0.986652)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 120)">
+    <g transform="translate(21.482355, 47.748379)">
+      <g transform="scale(1.398215, 1.398215)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 150)">
+    <g transform="translate(-67.011393, 23.009314)">
+      <g transform="scale(0.610138, 0.610138)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 180)">
+    <g transform="translate(-48.580541, 39.648756)">
+      <g transform="scale(1.015290, 1.015290)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 210)">
+    <g transform="translate(2.203877, 40.700434)">
+      <g transform="scale(1.930066, 1.930066)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 240)">
+    <g transform="translate(20.848160, 49.668071)">
+      <g transform="scale(1.200154, 1.200154)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(150, 270)">
+    <g transform="translate(-73.554689, 19.884159)">
+      <g transform="scale(0.801782, 0.801782)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 0)">
+    <g transform="translate(13.595647, 31.493128)">
+      <g transform="scale(1.636856, 1.636856)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 30)">
+    <g transform="translate(-59.628386, 48.325995)">
+      <g transform="scale(1.602066, 1.602066)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 60)">
+    <g transform="translate(27.397281, 29.955874)">
+      <g transform="scale(1.320718, 1.320718)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 90)">
+    <g transform="translate(-24.322288, 20.096263)">
+      <g transform="scale(0.545051, 0.545051)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 120)">
+    <g transform="translate(12.355859, 48.167154)">
+      <g transform="scale(1.445205, 1.445205)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 150)">
+    <g transform="translate(-65.834573, 32.955774)">
+      <g transform="scale(1.500764, 1.500764)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 180)">
+    <g transform="translate(-11.727131, -7.179654)">
+      <g transform="scale(1.877912, 1.877912)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 210)">
+    <g transform="translate(-16.281788, 37.734753)">
+      <g transform="scale(1.778248, 1.778248)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 240)">
+    <g transform="translate(-37.897227, 19.488029)">
+      <g transform="scale(0.716240, 0.716240)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(180, 270)">
+    <g transform="translate(-27.731245, 46.123850)">
+      <g transform="scale(1.744926, 1.744926)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 0)">
+    <g transform="translate(-11.166310, 28.562773)">
+      <g transform="scale(1.703800, 1.703800)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 30)">
+    <g transform="translate(16.897337, 12.368442)">
+      <g transform="scale(1.692419, 1.692419)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 60)">
+    <g transform="translate(-27.801659, 33.153170)">
+      <g transform="scale(0.786190, 0.786190)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 90)">
+    <g transform="translate(-15.844198, 49.810058)">
+      <g transform="scale(1.245258, 1.245258)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 120)">
+    <g transform="translate(20.985516, 38.737610)">
+      <g transform="scale(1.883104, 1.883104)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 150)">
+    <g transform="translate(-60.120154, 47.491011)">
+      <g transform="scale(1.311587, 1.311587)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 180)">
+    <g transform="translate(26.868029, 26.318213)">
+      <g transform="scale(0.896606, 0.896606)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 210)">
+    <g transform="translate(15.364433, 35.846229)">
+      <g transform="scale(0.812721, 0.812721)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 240)">
+    <g transform="translate(9.691246, 48.857050)">
+      <g transform="scale(0.656561, 0.656561)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(210, 270)">
+    <g transform="translate(-13.761336, 45.497948)">
+      <g transform="scale(1.670150, 1.670150)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 0)">
+    <g transform="translate(18.973839, 49.485127)">
+      <g transform="scale(1.767396, 1.767396)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 30)">
+    <g transform="translate(29.650262, 16.988546)">
+      <g transform="scale(1.492907, 1.492907)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 60)">
+    <g transform="translate(-62.096696, 9.062104)">
+      <g transform="scale(0.759326, 0.759326)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 90)">
+    <g transform="translate(-46.595430, 40.746499)">
+      <g transform="scale(1.064006, 1.064006)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 120)">
+    <g transform="translate(5.440774, 39.747525)">
+      <g transform="scale(1.905685, 1.905685)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 150)">
+    <g transform="translate(8.932641, 47.742231)">
+      <g transform="scale(1.290557, 1.290557)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 180)">
+    <g transform="translate(5.340842, 25.218442)">
+      <g transform="scale(1.139757, 1.139757)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 210)">
+    <g transform="translate(-33.362700, 34.192762)">
+      <g transform="scale(1.226982, 1.226982)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 240)">
+    <g transform="translate(-8.100834, 39.361770)">
+      <g transform="scale(1.533346, 1.533346)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(240, 270)">
+    <g transform="translate(-64.730511, 49.299490)">
+      <g transform="scale(1.323281, 1.323281)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 0)">
+    <g transform="translate(-38.428487, 30.843295)">
+      <g transform="scale(0.878878, 0.878878)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 30)">
+    <g transform="translate(10.630668, 30.858000)">
+      <g transform="scale(0.659106, 0.659106)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 60)">
+    <g transform="translate(14.594213, 21.745656)">
+      <g transform="scale(0.890977, 0.890977)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 90)">
+    <g transform="translate(-14.382647, -1.769796)">
+      <g transform="scale(1.318535, 1.318535)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 120)">
+    <g transform="translate(-66.037236, 20.255037)">
+      <g transform="scale(1.505837, 1.505837)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 150)">
+    <g transform="translate(17.056273, 48.873418)">
+      <g transform="scale(1.708304, 1.708304)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 180)">
+    <g transform="translate(-7.652815, 37.186942)">
+      <g transform="scale(1.051167, 1.051167)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 210)">
+    <g transform="translate(-44.368424, 45.458410)">
+      <g transform="scale(0.742924, 0.742924)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 240)">
+    <g transform="translate(-39.127356, 49.554112)">
+      <g transform="scale(1.779679, 1.779679)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(270, 270)">
+    <g transform="translate(-55.007819, 41.400723)">
+      <g transform="scale(1.382078, 1.382078)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 0)">
+    <g transform="translate(21.369113, 35.972484)">
+      <g transform="scale(0.748852, 0.748852)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 30)">
+    <g transform="translate(-2.406106, -2.624231)">
+      <g transform="scale(1.227892, 1.227892)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 60)">
+    <g transform="translate(10.107072, 36.115075)">
+      <g transform="scale(1.882731, 1.882731)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 90)">
+    <g transform="translate(-17.612715, 46.347153)">
+      <g transform="scale(0.740723, 0.740723)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 120)">
+    <g transform="translate(-57.217296, 41.243389)">
+      <g transform="scale(1.111563, 1.111563)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 150)">
+    <g transform="translate(-39.594118, 38.793432)">
+      <g transform="scale(1.830859, 1.830859)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 180)">
+    <g transform="translate(-4.301057, 49.742737)">
+      <g transform="scale(1.345930, 1.345930)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 210)">
+    <g transform="translate(2.983641, 28.536934)">
+      <g transform="scale(0.598650, 0.598650)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 240)">
+    <g transform="translate(-7.509966, 40.177704)">
+      <g transform="scale(0.547403, 0.547403)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(300, 270)">
+    <g transform="translate(9.552565, 49.884336)">
+      <g transform="scale(1.545876, 1.545876)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 0)">
+    <g transform="translate(-11.754925, 5.027578)">
+      <g transform="scale(0.901390, 0.901390)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 30)">
+    <g transform="translate(-25.475308, 20.170532)">
+      <g transform="scale(1.135384, 1.135384)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 60)">
+    <g transform="translate(27.875052, 24.555717)">
+      <g transform="scale(1.423541, 1.423541)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 90)">
+    <g transform="translate(-18.481573, 9.293471)">
+      <g transform="scale(1.352845, 1.352845)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 120)">
+    <g transform="translate(-24.843816, 46.981090)">
+      <g transform="scale(0.832531, 0.832531)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 150)">
+    <g transform="translate(16.975510, 47.536500)">
+      <g transform="scale(0.892780, 0.892780)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 180)">
+    <g transform="translate(4.588441, 48.203341)">
+      <g transform="scale(1.043049, 1.043049)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 210)">
+    <g transform="translate(-13.047828, 47.585652)">
+      <g transform="scale(1.469384, 1.469384)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 240)">
+    <g transform="translate(23.412714, 26.222337)">
+      <g transform="scale(0.767078, 0.767078)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(330, 270)">
+    <g transform="translate(-36.825152, 32.236669)">
+      <g transform="scale(1.510045, 1.510045)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 0)">
+    <g transform="translate(18.700098, 35.753712)">
+      <g transform="scale(1.302891, 1.302891)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 30)">
+    <g transform="translate(-15.344461, 41.391953)">
+      <g transform="scale(1.844387, 1.844387)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 60)">
+    <g transform="translate(-0.832111, 49.979062)">
+      <g transform="scale(1.733243, 1.733243)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 90)">
+    <g transform="translate(-36.031335, 34.225505)">
+      <g transform="scale(0.923103, 0.923103)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 120)">
+    <g transform="translate(-73.710375, 37.749293)">
+      <g transform="scale(1.290881, 1.290881)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 150)">
+    <g transform="translate(-51.628248, 24.318882)">
+      <g transform="scale(0.807343, 0.807343)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 180)">
+    <g transform="translate(22.108988, 49.450291)">
+      <g transform="scale(1.174405, 1.174405)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 210)">
+    <g transform="translate(6.676966, 43.167234)">
+      <g transform="scale(1.629892, 1.629892)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 240)">
+    <g transform="translate(-74.382235, 31.828314)">
+      <g transform="scale(1.954410, 1.954410)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(360, 270)">
+    <g transform="translate(-39.097457, 19.727840)">
+      <g transform="scale(0.662490, 0.662490)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 0)">
+    <g transform="translate(-73.061692, 48.249969)">
+      <g transform="scale(1.992600, 1.992600)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 30)">
+    <g transform="translate(-53.245927, 40.027368)">
+      <g transform="scale(0.998127, 0.998127)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 60)">
+    <g transform="translate(-7.691696, -3.132035)">
+      <g transform="scale(1.348771, 1.348771)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 90)">
+    <g transform="translate(-71.569022, 30.587107)">
+      <g transform="scale(0.891842, 0.891842)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 120)">
+    <g transform="translate(23.898730, -1.130540)">
+      <g transform="scale(1.566122, 1.566122)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 150)">
+    <g transform="translate(-9.699776, 18.055141)">
+      <g transform="scale(1.467115, 1.467115)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 180)">
+    <g transform="translate(24.580207, 49.969733)">
+      <g transform="scale(1.347879, 1.347879)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 210)">
+    <g transform="translate(-6.847573, -3.192289)">
+      <g transform="scale(0.506174, 0.506174)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 240)">
+    <g transform="translate(-35.994916, -0.374669)">
+      <g transform="scale(0.561576, 0.561576)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(390, 270)">
+    <g transform="translate(-44.384127, 28.725722)">
+      <g transform="scale(0.870175, 0.870175)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 0)">
+    <g transform="translate(-9.493564, -3.169919)">
+      <g transform="scale(0.575215, 0.575215)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 30)">
+    <g transform="translate(-4.921753, 46.705223)">
+      <g transform="scale(1.458016, 1.458016)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 60)">
+    <g transform="translate(13.492602, 29.050953)">
+      <g transform="scale(1.235657, 1.235657)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 90)">
+    <g transform="translate(-67.527943, -7.294487)">
+      <g transform="scale(1.479222, 1.479222)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 120)">
+    <g transform="translate(10.683797, -3.123918)">
+      <g transform="scale(1.187789, 1.187789)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 150)">
+    <g transform="translate(-39.160458, -2.061602)">
+      <g transform="scale(0.905723, 0.905723)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 180)">
+    <g transform="translate(-8.530860, 46.144167)">
+      <g transform="scale(1.297000, 1.297000)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 210)">
+    <g transform="translate(29.685576, -2.419896)">
+      <g transform="scale(1.748084, 1.748084)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 240)">
+    <g transform="translate(9.065435, -6.291453)">
+      <g transform="scale(0.520944, 0.520944)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(420, 270)">
+    <g transform="translate(14.032736, 5.252225)">
+      <g transform="scale(0.992679, 0.992679)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 0)">
+    <g transform="translate(7.617815, 34.115241)">
+      <g transform="scale(1.773402, 1.773402)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 30)">
+    <g transform="translate(28.815304, 26.361775)">
+      <g transform="scale(1.106114, 1.106114)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 60)">
+    <g transform="translate(-36.573641, -1.214789)">
+      <g transform="scale(1.976819, 1.976819)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 90)">
+    <g transform="translate(14.591351, 49.893862)">
+      <g transform="scale(0.680700, 0.680700)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 120)">
+    <g transform="translate(-35.133601, 22.642928)">
+      <g transform="scale(1.204717, 1.204717)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 150)">
+    <g transform="translate(-5.744373, 1.340282)">
+      <g transform="scale(0.528649, 0.528649)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 180)">
+    <g transform="translate(-14.774592, -2.719071)">
+      <g transform="scale(1.914268, 1.914268)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 210)">
+    <g transform="translate(9.088442, -7.364724)">
+      <g transform="scale(0.551705, 0.551705)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 240)">
+    <g transform="translate(-24.704280, 44.046905)">
+      <g transform="scale(1.356758, 1.356758)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(450, 270)">
+    <g transform="translate(-67.211850, 49.994857)">
+      <g transform="scale(1.485901, 1.485901)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 0)">
+    <g transform="translate(-5.776813, 49.694980)">
+      <g transform="scale(1.173062, 1.173062)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 30)">
+    <g transform="translate(24.770605, 33.662512)">
+      <g transform="scale(0.866701, 0.866701)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 60)">
+    <g transform="translate(-60.952010, 49.096094)">
+      <g transform="scale(0.526502, 0.526502)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 90)">
+    <g transform="translate(-32.581731, -0.542122)">
+      <g transform="scale(1.746816, 1.746816)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 120)">
+    <g transform="translate(-27.588538, 33.915283)">
+      <g transform="scale(1.740180, 1.740180)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 150)">
+    <g transform="translate(-20.635745, 44.402220)">
+      <g transform="scale(0.546164, 0.546164)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 180)">
+    <g transform="translate(-51.644627, 25.864694)">
+      <g transform="scale(1.883919, 1.883919)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 210)">
+    <g transform="translate(22.864001, 47.627766)">
+      <g transform="scale(1.889480, 1.889480)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 240)">
+    <g transform="translate(19.588459, 45.532751)">
+      <g transform="scale(1.941001, 1.941001)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(480, 270)">
+    <g transform="translate(13.620328, 34.066875)">
+      <g transform="scale(0.610863, 0.610863)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 0)">
+    <g transform="translate(12.938949, 39.044805)">
+      <g transform="scale(1.670729, 1.670729)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 30)">
+    <g transform="translate(-19.986824, 49.999849)">
+      <g transform="scale(0.744632, 0.744632)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 60)">
+    <g transform="translate(-45.816549, 14.134308)">
+      <g transform="scale(0.913210, 0.913210)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 90)">
+    <g transform="translate(-32.368171, 48.831547)">
+      <g transform="scale(0.997200, 0.997200)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 120)">
+    <g transform="translate(-49.147069, 5.057590)">
+      <g transform="scale(1.951413, 1.951413)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 150)">
+    <g transform="translate(-67.138350, 22.358787)">
+      <g transform="scale(1.873845, 1.873845)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 180)">
+    <g transform="translate(-31.602240, 5.178907)">
+      <g transform="scale(0.996235, 0.996235)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 210)">
+    <g transform="translate(-18.869827, 33.472355)">
+      <g transform="scale(1.036123, 1.036123)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 240)">
+    <g transform="translate(-71.793020, 19.991608)">
+      <g transform="scale(1.486778, 1.486778)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(510, 270)">
+    <g transform="translate(-72.804591, 46.459711)">
+      <g transform="scale(1.058936, 1.058936)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 0)">
+    <g transform="translate(20.695141, 43.420929)">
+      <g transform="scale(1.544022, 1.544022)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 30)">
+    <g transform="translate(-8.443350, 30.252991)">
+      <g transform="scale(0.759671, 0.759671)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 60)">
+    <g transform="translate(10.282386, 18.414546)">
+      <g transform="scale(1.175391, 1.175391)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 90)">
+    <g transform="translate(-9.072571, 45.567072)">
+      <g transform="scale(1.654166, 1.654166)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 120)">
+    <g transform="translate(-17.639247, 30.201234)">
+      <g transform="scale(0.543960, 0.543960)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 150)">
+    <g transform="translate(-20.324811, 36.087917)">
+      <g transform="scale(0.574226, 0.574226)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 180)">
+    <g transform="translate(26.065623, 29.114134)">
+      <g transform="scale(0.883204, 0.883204)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 210)">
+    <g transform="translate(-25.531038, 32.660571)">
+      <g transform="scale(1.527806, 1.527806)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 240)">
+    <g transform="translate(-29.406243, 32.649586)">
+      <g transform="scale(1.299771, 1.299771)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(540, 270)">
+    <g transform="translate(-68.381183, -3.557673)">
+      <g transform="scale(1.714523, 1.714523)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 0)">
+    <g transform="translate(-11.161732, 34.825794)">
+      <g transform="scale(0.856666, 0.856666)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 30)">
+    <g transform="translate(-7.149585, 49.985849)">
+      <g transform="scale(0.694605, 0.694605)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 60)">
+    <g transform="translate(-5.897571, 27.289162)">
+      <g transform="scale(0.811187, 0.811187)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 90)">
+    <g transform="translate(26.243320, 41.453612)">
+      <g transform="scale(1.267482, 1.267482)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 120)">
+    <g transform="translate(-1.194126, 48.689578)">
+      <g transform="scale(1.789651, 1.789651)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 150)">
+    <g transform="translate(26.090438, 45.984232)">
+      <g transform="scale(1.115756, 1.115756)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 180)">
+    <g transform="translate(21.344894, 47.392540)">
+      <g transform="scale(1.358199, 1.358199)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 210)">
+    <g transform="translate(-9.238801, 48.743462)">
+      <g transform="scale(1.429931, 1.429931)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 240)">
+    <g transform="translate(-59.333147, 45.020256)">
+      <g transform="scale(0.989501, 0.989501)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+<g>
+  <g transform="translate(570, 270)">
+    <g transform="translate(-6.031946, 47.329478)">
+      <g transform="scale(0.517887, 0.517887)">
+        <polygon points="0,30 0,0 30,30"/>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
