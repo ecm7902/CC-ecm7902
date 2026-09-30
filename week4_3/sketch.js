@@ -26,7 +26,7 @@ function keyPressed() {
 
 function draw() {
 
-  if (doExport = true) {
+  if (doExport) {
     beginRecordSvg("myOutput.svg");
   }
 
