@@ -139,6 +139,14 @@ nav ul li{
         flex-direction: column;
     }
 
+        .project10 { 
+        grid-area: 5 / 1 / 6 / 4; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
     #projects-section {
         width: 100vw;
         margin: 0 auto;
