@@ -3,7 +3,7 @@ html, body {
   padding: 0;
   background: #141218;
   color: #f1eef5;
-  font-family: system-ui, sans-serif;
+  font-family: sans-serif;
 }
 
 body {
@@ -17,12 +17,11 @@ body {
 canvas {
   display: block;
   max-width: 100%;
-  height: auto !important;
+  height: auto;
   border-radius: 12px;
 }
 
 button {
-  font: inherit;
   font-weight: 600;
   padding: 10px 26px;
   border: 0;
