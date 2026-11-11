@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #141218;
+  color: #f1eef5;
+  font-family: system-ui, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+}
+
+canvas {
+  display: block;
+  max-width: 100%;
+  height: auto !important;
+  border-radius: 12px;
+}
+
+button {
+  font: inherit;
+  font-weight: 600;
+  padding: 10px 26px;
+  border: 0;
+  border-radius: 999px;
+  background: #d56bf2;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
