@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MIDI Songs</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/tone@14.7.77/build/Tone.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tonejs/midi@2.0.28/build/Midi.js"></script>
+    <!--instrument samples from https://github.com/nbrosowsky/tonejs-instruments -->
+    <script src="https://nbrosowsky.github.io/tonejs-instruments/Tonejs-Instruments.js"></script>
+  </head>
+  <body>
+    <div id="ui">
+      <div id="controls">
+        <button id="play" disabled>Play</button>
+        <button id="full" class="ghost">Fullscreen</button>
+        <span id="time"></span>
+      </div>
+      <div id="songs"></div>
+      <div id="title"></div>
+      <div id="msg"></div>
+    </div>
+    <script src="songs.js"></script>
+    <script src="player.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

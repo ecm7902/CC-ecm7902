@@ -1,0 +1,87 @@
+html, body {
+  margin: 0;
+  overflow: hidden;
+  background: #080912;
+  color: #f1eef5;
+  font-family: system-ui, sans-serif;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+#ui {
+  position: fixed;
+  top: 12px;
+  left: 14px;
+  right: 170px;
+  z-index: 2;
+}
+
+#controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+button {
+  font: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 7px 18px;
+  border: 0;
+  border-radius: 999px;
+  background: #d56bf2;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.song, .ghost {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.song.active {
+  background: #d56bf2;
+}
+
+#songs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+#time {
+  margin-left: 6px;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.7;
+}
+
+#title {
+  margin-top: 8px;
+  font-size: 13px;
+  opacity: 0.6;
+}
+
+#msg {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #ff9aa8;
+}
+
+body.fs #ui {
+  display: none;
+}
+
+body.fs canvas {
+  cursor: none;
+}
